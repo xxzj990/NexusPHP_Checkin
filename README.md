@@ -11,7 +11,7 @@ __自动识别使用原生 NexusPHP 验证码的网站验证码并签到。__
 
 ### 说明
 
-![captcha](https://ww1.sinaimg.cn/large/005YhI8igy1fvn3kgbfjej3046014a9v)
+![captcha](https://camo.githubusercontent.com/93c99def19584803c538273bc26f1addc45a2742c71e8372e5db393ea500ad87/68747470733a2f2f7777312e73696e61696d672e636e2f6c617267652f303035596849386967793166766e336b6762666a656a33303436303134613976)
 
 如果你看到pt站使用这样的自带的验证码，那么就可以使用该项目的验证码识别方法。
 因为字母没有任何扭曲变形，模板匹配即可。
