@@ -6,7 +6,7 @@ __自动识别使用原生 NexusPHP 验证码的网站验证码并签到。__
 
 * Python 3
 * OpenCV 3 for Python3
- - pip3 install opencv-python
+  - pip3 install opencv-python
 * [Requests](https://github.com/requests/requests)
 
 ### 说明
