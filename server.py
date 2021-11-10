@@ -36,6 +36,9 @@ class Resquest(BaseHTTPRequestHandler):
             #验证码识别
             text = binary_captchar("temp/%s.png"%img_name)
             print('\n'+text+'\n') #识别的结果
+            
+            #删除掉图片文件，以防占用太大的内存
+            os.remove("temp/%s.png"%img_name)
         except:
             text= '0000'
             print('\n识别失败！\n')
